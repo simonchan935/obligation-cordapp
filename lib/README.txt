@@ -6,3 +6,7 @@ correct path to your call to Java:
    java -javaagent:path-to-quasar-jar.jar ...
 
 See the Quasar docs for more information: http://docs.paralleluniverse.co/quasar/
+
+===================================
+v20211103: Support Offline Payment
+===================================
